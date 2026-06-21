@@ -1,0 +1,9 @@
+pandas
+numpy
+requests
+fredapi
+xgboost
+lightgbm
+tensorflow
+scikit-learn
+streamlit
